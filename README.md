@@ -4,7 +4,7 @@
   
 - 🍵 compartilho minha evolução nos estudos
 - 📂 atualmente estou fazendo o curso da Oracle Next One
-- 📝 estudante em Bacharelado em Ciências e Tecnologia Na UFAB
+- 📝 estudante em Bacharelado em Ciências e Tecnologia Na UFABC
 - 👨🏻‍💻 tenho interesse em desenvolvimento full-stack
 </div>
 
