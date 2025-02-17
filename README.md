@@ -1,4 +1,4 @@
-<h3 align="center">olá, dev!</h3>
+## <h3 align="center">olá, dev!</h3>
 
 <div>
   
@@ -8,7 +8,7 @@
 - 👨🏻‍💻 tenho interesse em desenvolvimento full-stack
 </div>
 
-<h3>꩜ estudando</h3>
+## <h3>꩜ estudando</h3>
 
 <table align="center">
   <tr>
@@ -21,16 +21,10 @@
       <br>CSS
     </td>
     <td align="center">
-      <img style="width: 50; max-width: 150;" src="https://github.com/user-attachments/assets/99c79bdc-cac5-4c47-841c-c7ba0cabe723" alt=html-logo"/>
+      <img style="width: 50; max-width: 150;" src="https://github.com/user-attachments/assets/34f99561-8625-4895-adb6-1d4518ad781a" alt=html-logo"/>
       <br>HTML
     </td>
   </tr>
 </table>
-
-<h3>꩜ status</h3>
-
-<h3>꩜ contatos</h3>
-
-
 
 
