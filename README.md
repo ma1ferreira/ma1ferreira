@@ -13,7 +13,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img style="width: 70; max-width: 270;" src="https://github.com/user-attachments/assets/cb4cf253-9c7a-4930-9534-b98d404313ce" alt=javascript-logo"/>
+      <img style="width: 50; max-width: 200;" src="https://github.com/user-attachments/assets/cb4cf253-9c7a-4930-9534-b98d404313ce" alt=javascript-logo"/>
       <br>Javascript
     </td>
   </tr>
