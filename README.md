@@ -16,9 +16,19 @@
       <img style="width: 50; max-width: 200;" src="https://github.com/user-attachments/assets/cb4cf253-9c7a-4930-9534-b98d404313ce" alt=javascript-logo"/>
       <br>Javascript
     </td>
+    <td align="center">
+      <img style="width: 50; max-width: 200;" src="https://github.com/user-attachments/assets/53fe8817-d642-455c-a3ac-e757e5a662d7" alt=css-logo"/>
+      <br>CSS
+    </td>
+    <td align="center">
+      <img style="width: 50; max-width: 200;" src="https://github.com/user-attachments/assets/99c79bdc-cac5-4c47-841c-c7ba0cabe723" alt=html-logo"/>
+      <br>HTML
+    </td>
   </tr>
 </table>
 
 
 
 ![icons8-javascript-150](https://github.com/user-attachments/assets/cb4cf253-9c7a-4930-9534-b98d404313ce)
+![icons8-css-150](https://github.com/user-attachments/assets/53fe8817-d642-455c-a3ac-e757e5a662d7)
+![icons8-html-150](https://github.com/user-attachments/assets/99c79bdc-cac5-4c47-841c-c7ba0cabe723)
