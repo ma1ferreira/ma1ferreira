@@ -8,6 +8,9 @@
 - 👨🏻‍💻 tenho interesse em desenvolvimento full-stack
 </div>
 
+<h2>estudando...</h2>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 
 
 <!--
