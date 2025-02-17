@@ -1,12 +1,10 @@
 <h2 align="center">olá, dev!</h2>
 
 <div>
+  
 - 🍵 compartilho minha evolução nos estudos
-  
 - 📂 atualmente estou fazendo o curso da Oracle Next One
-  
-- 📝 estudante em Bacharelado em Ciências e Tecnologia Na UFABC
-
+- 📝 estudante em Bacharelado em Ciências e Tecnologia Na UFAB
 - 👨🏻‍💻 tenho interesse em desenvolvimento full-stack
 </div>
 
