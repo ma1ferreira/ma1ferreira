@@ -29,5 +29,7 @@
 
 <h3>status...</h3>
 <div align = "center">
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma1ferreira&cardType=github&bg_color=00000000&Text=000&title_color=FFFAFA%border_color=FFFAFA&card_width=200"
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma1ferreira&cardType=github&bg_color=00000000&Text=000&title_color=FFFAFA%border_color=FFFAFA&card_width=200">
+</div>
+
 
