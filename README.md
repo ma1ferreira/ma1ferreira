@@ -8,7 +8,7 @@
 - 👨🏻‍💻 tenho interesse em desenvolvimento full-stack
 </div>
 
-<h3>estudando...</h3>
+<h3>꩜ estudando</h3>
 
 <table align="center">
   <tr>
@@ -27,9 +27,10 @@
   </tr>
 </table>
 
-<h3>status...</h3>
-<div align = "center">
-<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma1ferreira&cardType=github&bg_color=00000000&Text=000&title_color=FFFAFA%border_color=FFFAFA&card_width=200">
-</div>
+<h3>꩜ status</h3>
+
+<h3>꩜ contatos</h3>
+
+
 
 
