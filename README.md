@@ -21,10 +21,9 @@
       <br>CSS
     </td>
     <td align="center">
-      <img style="width: 50; max-width: 150;" src="https://github.com/user-attachments/assets/34f99561-8625-4895-adb6-1d4518ad781a" alt=html-logo"/>
+      <img style="width: 50; max-width: 150;" src="https://github.com/user-attachments/assets/762356d6-d1ca-4ae0-bf93-f60eb7ba58fd" alt=html-logo"/>
       <br>HTML
     </td>
   </tr>
 </table>
-
 
