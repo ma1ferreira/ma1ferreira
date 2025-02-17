@@ -10,21 +10,15 @@
 
 <h3>estudando...</h3>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img style="width: 100; max-width: 300;" src="https://github.com/user-attachments/assets/cb4cf253-9c7a-4930-9534-b98d404313ce" alt=javascript-logo"/>
+      <br>Javascript
+    </td>
+  </tr>
+</table>
 
 
 
-<!--
-**ma1ferreira/ma1ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+![icons8-javascript-150](https://github.com/user-attachments/assets/cb4cf253-9c7a-4930-9534-b98d404313ce)
