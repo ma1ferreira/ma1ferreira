@@ -1,4 +1,4 @@
-<h2 align="center">olá, dev!</h2>
+<h3 align="center">olá, dev!</h3>
 
 <div>
   
@@ -8,8 +8,8 @@
 - 👨🏻‍💻 tenho interesse em desenvolvimento full-stack
 </div>
 
-<h2>estudando...</h2>
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<h3>estudando...</h3>
+
 
 
 
