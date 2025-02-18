@@ -1,6 +1,6 @@
 ## <h3 align="center">olá, dev!</h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=929292&width=150&lines=em+atualiza%C3%A7%C3%A3o..." alt="Typing SVG" /></a>
+
 
 <div>
   
@@ -17,8 +17,6 @@
     <td align="center">
       <img style="width: '50%'; max-width: 100;" src="https://github.com/user-attachments/assets/21a27d19-c631-4bac-b8dc-09a167755ef8" alt=javascript-logo"/>
       <br>Javascript
-    </td>![Design sem nome (1)](https://github.com/user-attachments/assets/17f309a2-a51c-4038-a484-52e31a642097)
-
     <td align="center">
       <img style="width: '50%'; max-width: 100;" src="https://github.com/user-attachments/assets/38f372b5-36b8-4de4-a782-a14966c5d864" alt=css-logo"/>
       <br>CSS
@@ -31,3 +29,4 @@
 </table>
 
 ##
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=929292&width=150&lines=em+atualiza%C3%A7%C3%A3o..." alt="Typing SVG" /></a>
