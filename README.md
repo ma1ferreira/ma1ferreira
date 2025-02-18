@@ -28,3 +28,4 @@
 </table>
 
 ##
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=929292&width=150&lines=em+atualiza%C3%A7%C3%A3o..." alt="Typing SVG" /></a>
