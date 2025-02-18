@@ -13,15 +13,15 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img style="width: '50%'; max-width: 100;" src="https://github.com/user-attachments/assets/060ca821-5c7f-499b-ab1e-84c9b844a4de" alt=javascript-logo"/>
+      <img style="width: '50%'; max-width: 100;" src="https://github.com/user-attachments/assets/21a27d19-c631-4bac-b8dc-09a167755ef8" alt=javascript-logo"/>
       <br>Javascript
     </td>
     <td align="center">
-      <img style="width: '50%'; max-width: 100;" src="https://github.com/user-attachments/assets/34738ae3-dfa3-4193-b9f9-599e6a437496" alt=css-logo"/>
+      <img style="width: '50%'; max-width: 100;" src="https://github.com/user-attachments/assets/38f372b5-36b8-4de4-a782-a14966c5d864" alt=css-logo"/>
       <br>CSS
     </td>
     <td align="center">
-      <img style="width: '50%'; max-width: 100;" src="https://github.com/user-attachments/assets/6eacd547-571f-4259-83bd-7f95dab5e252" alt=html-logo"/>
+      <img style="width: '50%'; max-width: 100;" src="https://github.com/user-attachments/assets/1d1462fc-4dd6-4504-9e6e-20188b764393" alt=html-logo"/>
       <br>HTML
     </td>
   </tr>
