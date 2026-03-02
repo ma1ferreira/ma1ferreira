@@ -3,7 +3,7 @@
 
 ![Design sem nome (1)](https://github.com/user-attachments/assets/b075e3f7-cfe4-490a-bfd6-c8537b80f95f)
 
-<div font-size=8px>
+<div>
      • 🍵 cursando ciências e tecnologia na ufabc 
      <br>
      • 📂 repositório de projetos desenvolvidos durante meus estudos 
