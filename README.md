@@ -4,7 +4,6 @@
 -🍵 cursando ciências e tecnologia na ufabc
   
 -📂 repositório de projetos desenvolvidos durante meus estudos
-  
 -👨🏻‍💻 foco em data stack e desenvolvimento de dashboards
 </div>
 
