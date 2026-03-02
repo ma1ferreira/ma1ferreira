@@ -1,12 +1,10 @@
-<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/422c1594-8511-418f-a4cd-76b17a8f5724" />## <h3 align="center">olá, dev! </h3>
-
 ![Design sem nome (1)](https://github.com/user-attachments/assets/b075e3f7-cfe4-490a-bfd6-c8537b80f95f)
 
 <div>
 -🍵 cursando ciências e tecnologia na ufabc
   
 -📂 repositório de projetos desenvolvidos durante meus estudos
-
+  
 -👨🏻‍💻 foco em data stack e desenvolvimento de dashboards
 </div>
 
