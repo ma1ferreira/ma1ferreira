@@ -5,7 +5,7 @@
 <div>
   
 - 🍵 arquivos de códigos que faço por diversão
-- 👨🏻‍💻 tenho interesse em desenvolvimento full-stack
+- 👨🏻‍💻 tenho interesse em engenharia de dados e desenvolvimento de dashboards
 </div>
 
 ## <h3>꩜ estudando</h3>
