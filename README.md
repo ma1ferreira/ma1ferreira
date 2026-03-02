@@ -3,15 +3,18 @@
 ![Design sem nome (1)](https://github.com/user-attachments/assets/b075e3f7-cfe4-490a-bfd6-c8537b80f95f)
 
 <div>
-  
-- 🍵 arquivos de códigos que faço por diversão
-- 👨🏻‍💻 tenho interesse em engenharia de dados e desenvolvimento de dashboards
+-🍵 cursando ciências e tecnologia na ufabc
+-📂 repositório de projetos desenvolvidos durante meus estudos
+-👨🏻‍💻 foco em data stack e desenvolvimento de dashboards
 </div>
 
 ## <h3>꩜ estudando</h3>
 
 <table align="center">
   <tr>
+     <td align="center">
+      <img style="width: '50%'; max-width: 100;" src="https://github.com/user-attachments/assets/21a27d19-c631-4bac-b8dc-09a167755ef8" alt=javascript-logo"/>
+      <br>Javascript
     <td align="center">
       <img style="width: '50%'; max-width: 100;" src="https://github.com/user-attachments/assets/21a27d19-c631-4bac-b8dc-09a167755ef8" alt=javascript-logo"/>
       <br>Javascript
