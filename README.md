@@ -13,7 +13,7 @@
 <table align="center">
   <tr>
      <td align="center">
-      <img style="width: '50%'; max-width: 100;" src="[https://github.com/user-attachments/assets/626ed673-58f3-4e81-8e87-19f94b2dc0bb](https://www.clipartmax.com/png/small/176-1767516_python-logo-clipart-svg-python-icon-png.png)" alt=python-logo"/>
+      <img style="width: '50%'; max-width: 100;" src="https://img.icons8.com/?size=100&id=12584&format=png&color=000000" alt=python-logo"/>
       <br>Python
     <td align="center">
       <img style="width: '50%'; max-width: 100;" src="https://github.com/user-attachments/assets/21a27d19-c631-4bac-b8dc-09a167755ef8" alt=javascript-logo"/>
