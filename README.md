@@ -3,14 +3,11 @@
 
 ![Design sem nome (1)](https://github.com/user-attachments/assets/b075e3f7-cfe4-490a-bfd6-c8537b80f95f)
 
-<div>
-     • 🍵 cursando ciências e tecnologia na ufabc 
-     <br>
-     • 📂 repositório de projetos desenvolvidos durante meus estudos 
-     <br>
-     • 👨🏻‍💻 foco em data stack e desenvolvimento de dashboards
-</div>
-
+###
+- 🍵 cursando ciências e tecnologia na ufabc
+- 📂 repositório de projetos desenvolvidos durante meus estudos
+- 👨🏻‍💻 foco em data stack e desenvolvimento de dashboards
+     
 ## <h3>꩜ estudando</h3>
 
 <table align="center">
