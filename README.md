@@ -15,7 +15,7 @@
 <table align="center">
   <tr>
      <td align="center">
-      <img style="width: '50%'; max-width: 100;" src="[https://github.com/user-attachments/assets/21a27d19-c631-4bac-b8dc-09a167755ef8](https://e7.pngegg.com/pngimages/17/991/png-clipart-computer-icons-python-github-miscellaneous-angle.png)" alt=python-logo"/>
+      <img style="width: '50%'; max-width: 100;" src="https://github.com/user-attachments/assets/626ed673-58f3-4e81-8e87-19f94b2dc0bb" alt=python-logo"/>
       <br>Python
     <td align="center">
       <img style="width: '50%'; max-width: 100;" src="https://github.com/user-attachments/assets/21a27d19-c631-4bac-b8dc-09a167755ef8" alt=javascript-logo"/>
